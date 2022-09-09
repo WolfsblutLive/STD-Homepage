@@ -1,6 +1,19 @@
-
+html,body{
+    height: 100%;
+}
+body{
+    background: url(https://cdn.discordapp.com/attachments/964230230145368104/1012840715799232712/WolfsblutLive_DayZ_Wallpaper_title_Survive_The_Darkness_3_Armed_2504b13a-d613-44a5-88e8-6a63f5269fae.png);
+    background-size: cover;
+    z-index:-1;
+}
+a{
+    text-decoration: none;
+}
+.std-logo{
+    width: 300px;
+}
 .bt1{
-    width: 75px;
+    width: auto;
     height: 40px;
     font-size: 20px;
     background-color: #212529;
@@ -14,6 +27,7 @@
 }
 
 .bt2{
+    width: 100px;
     height: 35px;
     border: none;
 
